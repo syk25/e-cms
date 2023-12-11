@@ -4,11 +4,11 @@
 
 Goal : 셀러와 구매자를 중개해주는 커머스 서버를 구축한다.
 
-Language: Java
-Framework: Spring
-Dependencies: Jpa
-Database: MySQL, Redis
-Tools: Docker, AWS
+- Language: Java
+- Framework: Spring
+- Dependencies: Jpa
+- Database: MySQL, Redis
+- Tools: Docker, AWS
 
 ## 회원
 ### 공통
