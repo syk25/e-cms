@@ -1,45 +1,39 @@
-# e-cms
-## 소개
-이커머스 프로젝트
+# 🗒 온라인 쇼핑몰 서비스
 
-Goal : 셀러와 구매자를 중개해주는 커머스 서버를 구축한다.
+소비자가 상품을 보고 장바구니에 담아 주문할 수 있는 서비스입니다.
 
-- Language: Java
-- Framework: Spring
-- Dependencies: Jpa
-- Database: MySQL, Redis
-- Tools: Docker, AWS
-
-## 회원
-### 공통
-- [ ] 이메일에 의한 인증번호로 회원가입
-- [ ] 구글 계정으로 회원가입
-- [ ] 카카오톡으로 회원가입
-
-### 고객(소비자)
-- [ ] 회원 가입
-- [ ] 인증(이매일)
-- [ ] 로그인 토큰 발행
-- [ ] 로그인 토큰을 통한 제어 확인(JWT, Filter)
-- [ ] 예치금 관리
-
-### 셀러
+## 프로젝트 기능 및 설계
+### 회원
 - [ ] 회원가입
+- [ ] 로그인
 
-## 주문
-### 셀러
-- [ ] 상품 CRUD
+### 상품
+- [ ] 상품조회
+- [ ] 상품 검색
+- [ ] 상품 상세
 
-### 구매자
-- [ ] 장바구니를 위한 Redis 연동
-- [ ] 상품 검색과 상세 ㅍ이지
-- [ ] 장바구니에 물건 추가
-- [ ] 장바구니 확인
+### 장바구니
+- [ ] 장바구니에 상품 추가
+- [ ] 장바구니에서 상품 수량 조절
+- [ ] 장바구니에서 상품 삭제
+
+### 주문
 - [ ] 주문하기
-- [ ] 주문내열 이메일로 발송
+- [ ] 주문 취소하기
 
-## 구성도 / ERD
 
-## 시퀀스 다이어그램
+## ERD 
 
-## 내용상세
+
+## 문제 대응
+[문제 대응 모음]()
+
+### 기술스택
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
+
