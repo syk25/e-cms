@@ -31,6 +31,7 @@
 
 ## ERD 
 
+<img width="832" alt="Screenshot 2023-12-17 at 2 42 54 AM" src="https://github.com/syk25/e-cms/assets/129013571/abde0cf1-bf56-4221-a99c-7af4739adb40">
 
 
 ## 문제 대응
