@@ -48,6 +48,12 @@
 2. 주문 취소 기능 - 결제 취소 요청 후 주문기록에 주문이 취소되었음을 갱신합니다.
 3. 주문 조회 기능 - 주문목록을 보여줍니다. 주문목록에는 주문일자, 주문 상세가 명시되어 있습니다.
 
+## 예상되는 필요 기술
+1. Framework: spring security, JPA, AOP, caching
+2. db: H2, MySQL, Redis
+3. search: elastic search
+4. testing: mockito
+
 ## ERD 
 
 ![image](https://github.com/syk25/e-cms/assets/129013571/c67d97a8-6a26-4793-87ad-6bffa8763a88)
