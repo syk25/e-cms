@@ -24,6 +24,7 @@
 - [ ] 장바구니에서 상품 삭제
 - [ ] 장바구니 조회하기
 
+
 ### 주문
 - [ ] 주문 내역 확인하기
 - [ ] 주문하기
@@ -56,7 +57,7 @@
 
 ## ERD 
 
-![image](https://github.com/syk25/e-cms/assets/129013571/c67d97a8-6a26-4793-87ad-6bffa8763a88)
+<img width="841" alt="Screenshot 2023-12-18 at 3 36 55 AM" src="https://github.com/syk25/e-cms/assets/129013571/6fd2ca4b-9a8b-4d5a-b2a0-01f6e11fcd5e">
 
 ## 문제 대응
 [문제 대응 모음]()
